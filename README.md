@@ -85,7 +85,6 @@ $ truffle build
 And then use a browser to access the webpage created in build and then you can send
 your "MetaCoin" to one of the other accounts:
 ```
-```
 $ chromium build/index.html
 Created new window in existing browser session.
 ```
